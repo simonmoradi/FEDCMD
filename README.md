@@ -39,11 +39,11 @@ Ik twijfel nog, beide is wel een uitdaging, anders ga ik voor responsive.
 https://nl.pinterest.com/
 
 #### Screenshot(s) van de eerste pagina (small screen): 
-hier de naam van de pagina  
+home page  
 <img src="images/foto2.jpeg" width="200px" alt="home page">
 
 #### Screenshot(s) van de tweede pagina (small screen):
-hier de naam van de pagina  
+detail pagina  
 <img src="images/foto1.jpeg" width="200px" alt="andere pagina">
  
 </details>
