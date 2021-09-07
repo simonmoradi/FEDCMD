@@ -40,11 +40,11 @@ https://nl.pinterest.com/
 
 #### Screenshot(s) van de eerste pagina (small screen): 
 hier de naam van de pagina  
-<img src="images/screenshot2.jpeg" width="375px" alt="omschrijving van de pagina">
+<img src="images/foto2.jpg" width="200px" alt="home page">
 
 #### Screenshot(s) van de tweede pagina (small screen):
 hier de naam van de pagina  
-<img src="images/screenshot1.jpeg" width="375px" alt="omschrijving van de pagina">
+<img src="images/foto1.jpg" width="200px" alt="andere pagina">
  
 </details>
 
