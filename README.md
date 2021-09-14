@@ -40,11 +40,11 @@ https://www.naturalis.nl
  
 #### Screenshot(s) van de eerste pagina (small screen): 
 home page  
-<img src="images/foto2.jpeg" width="200px" alt="home page">
+<img src="images/naturalis1.jpg" width="200px" alt="home page">
 
 #### Screenshot(s) van de tweede pagina (small screen):
 detail pagina  
-<img src="images/foto1.jpeg" width="200px" alt="andere pagina">
+<img src="images/naturalis2.jpg" width="200px" alt="andere pagina">
  
 </details>
 
