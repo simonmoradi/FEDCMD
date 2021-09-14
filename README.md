@@ -44,7 +44,7 @@ home page
 
 #### Screenshot(s) van de tweede pagina (small screen):
 detail pagina  
-<img src="images/naturalis2.jpeg" width="200px" alt="andere pagina">
+<img src="images/naturalis2.jpg" width="200px" alt="andere pagina">
  
 </details>
 
