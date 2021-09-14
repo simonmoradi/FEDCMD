@@ -36,8 +36,8 @@ Ik twijfel nog, beide is wel een uitdaging, anders ga ik voor responsive.
 <summary>uitwerken voor kick-off werkgroep</summary>
 
 ### Je opdracht:
-https://nl.pinterest.com/
-
+https://www.naturalis.nl
+ 
 #### Screenshot(s) van de eerste pagina (small screen): 
 home page  
 <img src="images/foto2.jpeg" width="200px" alt="home page">
