@@ -1,0 +1,125 @@
+body {
+    width: 100%;
+    margin: 0;
+    font-family: platform,arial,sans-serif;
+}
+
+main {
+    width: 100%;
+    position: absolute;
+    top: 400px;
+}
+
+
+p {
+    line-height: 1em;
+    padding: 2em;
+}
+
+a {
+    padding: 2em;
+    text-decoration: none;
+}
+
+li {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 100%;
+
+}
+
+li p {
+    
+    font-size: 20px;
+    text-align: center;
+}
+
+
+
+h1 {
+    position: absolute;
+    top: 150px;
+    font-size: 2em;
+    font-weight: bold;
+    line-height: 30px;
+    color: white;
+    padding-left: 30px;
+}
+
+h2 {
+    color: white;
+    padding-left: 30px;
+}
+
+h3 {
+    color: #01A050;
+    font-weight: bold;
+    padding-left: 30px;
+    text-transform: uppercase;
+}
+
+h5 {
+    position: absolute;
+    color: white;
+    padding-left: 30px;
+    top: 220px;
+}
+
+h6 {
+    padding-left: 30px;
+}
+  
+header img {
+    width: 1em;
+    position: absolute;
+    left: 10px;
+    top: 10px;
+}
+  
+section img {
+    width: 100%;    
+}
+
+section:first-of-type {
+    background-color:#F9423A;
+    padding-top: 30px;
+    padding-bottom: 30px;;
+    margin: 15px;
+    color: white;
+}
+
+.groen {
+    background-color: #01A050;
+    color: white;
+    padding-bottom: 40px;
+}
+
+.blauw {
+    background-color: #007DE1;
+    color: white;
+    padding-bottom: 40px;
+}
+
+.zwart {
+    text-transform:capitalize;
+    color: black;
+    font-weight: bold;
+    padding-left: 30px;
+}
+
+#gebouw {
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0; 
+    z-index: -1;
+    filter: brightness(70%);
+
+}
+
+
+
+
+
+
