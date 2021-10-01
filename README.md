@@ -78,7 +78,7 @@ detail pagina
 <summary>uitwerken voor 1e voortgang</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+Ik was goed op weg met mijn code. Ik heb goede feedback gekregen en deze gelijk verwerkt in mijn code. Ik ging enthousiast het weekend in!
 
 
 ### Agenda voor meeting
@@ -94,10 +94,12 @@ samen met je groepje opstellen
 ### Verslag van meeting
 hier na afloop snel de uitkomsten van de meeting vastleggen
 
-- punt 1
-- punt 2
-- nog een punt
-- ...
+- Kijk naar de headings of deze goed genest zijn
+- Een class op de gehele section zetten, dat is handiger
+- Span! opzoeken wat dat is en deze op de Headings zetten die ik wil flex directen
+- Probeer consistent te zijn in je eenheden gebruik, dus niet .em .px en % maar alleen % bijvoorbeeld
+- Slideshow erin zetten
+- Kijk naar het hamburgermenu
 
 </details>
 
@@ -145,6 +147,12 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 
 ### Bevindingen
 Lijst met je bevindingen die in de test naar voren kwamen:
+ Dit was een super leuke les! WE gingen testen met brillen en shock pads waardoor je disabled werd haha, vet leuk!
+ 
+ Goed dan nu de bevindingen, me site is k*t haha grapje het was wel lastig om het te bedienen met trillende handen of slecht zicht.
+ 
+ De screen reader ging goed door de site heen, die las alles op en zelfs zonder te kijken zou ik uit de screen reader kunnen ophalen 
+ hoe de site eruit ziet en hoe hij werkt
 
 #### Titel eerste bevinding
 Hier korte omschrijving (met indien nodig een afbeelding)
