@@ -113,7 +113,7 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 <summary>uitwerken voor 2e voortgang</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+Ik heb deze voortgang helaas gemist wegens omstandigheden, maar ben hier best goed bovenop gekomen door vervolgens vragen te stellen waar nodig was.
 
 
 ### Agenda voor meeting
@@ -149,33 +149,32 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 Lijst met je bevindingen die in de test naar voren kwamen:
  Dit was een super leuke les! WE gingen testen met brillen en shock pads waardoor je disabled werd haha, vet leuk!
  
- Goed dan nu de bevindingen, me site is k*t haha grapje het was wel lastig om het te bedienen met trillende handen of slecht zicht.
+ Goed dan nu de bevindingen, het was wel lastig om het te bedienen met trillende handen of slecht zicht.
  
  De screen reader ging goed door de site heen, die las alles op en zelfs zonder te kijken zou ik uit de screen reader kunnen ophalen 
  hoe de site eruit ziet en hoe hij werkt
 
-#### Titel eerste bevinding
-Hier korte omschrijving (met indien nodig een afbeelding)
+#### Bevinding bril met kleine puntjes in het midden.
 
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
+ - Het menu is moeilijk te zien
+ - de leesbaarheid is wel oke, doordat het contrast redelijk goed is.
 
+#### Bevinding beperking, elastiek om je hand 
 
-#### Titel tweede bevinding. 
-Hier korte omschrijving (met indien nodig een afbeelding)
-
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
-
-
-#### Titel volgende bevinding. 
-Hier korte omschrijving (met indien nodig een afbeelding)
-
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
+ - Ik kon helemaal niks joh, ik klikte overal op en de mousepad was niet te bedienen
+ - Ik zou het in dit geval met de tabtoets doen/navigeren
 
 
-#### Titel nog een bevinding. 
-Hier korte omschrijving (met indien nodig een afbeelding)
+#### Bevindingen shockpads 
 
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
+ - Dit was niet te doen, ik kon mijn hand nergens stil houden en ben niet niet eens tot het tweede artikel gekomen
+ - Hier is de beste optie een screen reader voor
+
+
+#### Bevinding snel afgeleidt. 
+
+ - Ik kwam nergens, het doel was ga naar de tickets pagina
+ - Ik was te druk bezig met het bedienen van de ballon boven het hoofd
 
 </details>
 
@@ -189,7 +188,9 @@ Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbe
 <summary>uitwerken voor 3e voortgang</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+
+ Tijdens het gesprek kwam vooral naar voren dat ik goed moest kijken naar het nesten van de elementen. Verder vond ik het erg jammer dan de studentassistent
+ op school was en hierdoor veel afgeleidt werdt. Ik was ook als laatste dus heb voor mijn gevoel wat meer algemene feedback ontvangen
 
 
 ### Agenda voor meeting
@@ -205,10 +206,12 @@ samen met je groepje opstellen
 ### Verslag van meeting
 hier na afloop snel de uitkomsten van de meeting vastleggen
 
-- punt 1
-- punt 2
-- nog een punt
-- ...
+- Gebruik comments voor leesbaarheid
+- Geef betekenis volle namen aan id en classes
+- Li moet in ul
+- Een section moet als direct child een headeing, gebruik article instead
+- Gerbuik minder classes
+- Kijk naar de consistentie in eenheden in je css
 
 </details>
 
@@ -241,8 +244,13 @@ hier screenshot(s) van je eindresultaat
 
 Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
 
-1. bron 1
-2. bron 2
-3. ...
+1. https://codepen.io/erikterwan/pen/EVzeRP?editors=0100 - uitwerking hamburgermenu
+2. https://www.the-art-of-web.com/css/timing-function/  - uitleg over time and transition
+3. https://css-tricks.com/snippets/css/a-guide-to-flexbox/ - spreekt voor zich --> flexbox
+4. https://www.section.io/engineering-education/how-to-make-an-image-carousel-for-your-website/ - slider voorbeeld
+5. https://freefrontend.com/css-forms/ - formulieren voorbeelden 
+6. google afbeeldingenvoor de images
+7. https://www.geeksforgeeks.org/how-to-create-image-slider-using-html-css-and-javascript/ - slider voorbeeld
+8. https://greensock.com/forums/topic/29044-scrolltrigger-play-audio-when-scroll-to-certain-point-on-the-page/ - hier wil ik nog naar kijken, scroll met geluid --> javascript
 
 </details>
